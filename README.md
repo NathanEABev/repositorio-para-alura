@@ -1,8 +1,8 @@
-# repositorio criado para atividade no alura😀
-  perfil de Nathan 
+# Repositorio Digital de Nathan E. A. Bevilaqua
+  email de contato: nathanarrotheia@gmail.com
  
-  >•estudo java script no alura, **mas sei um pouco de HTML e CSS também**
-  
-  >•página usada para organização de conteúdos
++ Estudante de HTML, CSS e JavaScript
++ Estudo pelos sites [Alura](https://www.alura.com.br) e [Curso em Vídeo](https://www.cursoemvideo.com)
++ Repositorio para organização e compartilhamentos dos projetos criados
 
-![](https://i.pinimg.com/originals/b9/12/37/b91237cfee4f903fff2c5c1bbaa7e78e.gif)
+![](https://i.pinimg.com/originals/18/e0/64/18e0641748101b3f7275f5723d4405f0.gif)
